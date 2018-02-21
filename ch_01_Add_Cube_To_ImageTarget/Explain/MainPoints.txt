@@ -1,0 +1,35 @@
+v =>
+https://www.youtube.com/watch?v=oC9k5Yd4020&index=3&list=PL_Nji0JOuXg0tJ-HQ8g0OgEjIxL5RO1R2
+
+============================================
+1. add vuforia package to the unity project
+==========================================
+
+=================================================
+2. delete the main camera
+================================================
+
+=============================================
+3. add ARcamera from Vuforia/prefabs
+==============================================
+
+=============================================
+4. add license key to ARcamera
+============================================
+
+=============================================
+5. add vuforia database to the unity project
+============================================
+
+
+===============================================
+6. add image target prefab or your prefab target to the scene
+   - set configure to the image target prefab like
+     --database name
+     - image name
+================================================
+
+
+==================================================
+7. make sure the objects in the child of its image target
+==================================================
