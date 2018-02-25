@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayVideo", "PlayVideo.csproj", "{6F11BACE-2023-D57C-81EC-54459C1C8D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayVideo.Editor", "PlayVideo.Editor.csproj", "{C928FE13-331E-83CD-71AF-9D9DCF1D3847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F11BACE-2023-D57C-81EC-54459C1C8D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F11BACE-2023-D57C-81EC-54459C1C8D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F11BACE-2023-D57C-81EC-54459C1C8D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F11BACE-2023-D57C-81EC-54459C1C8D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C928FE13-331E-83CD-71AF-9D9DCF1D3847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C928FE13-331E-83CD-71AF-9D9DCF1D3847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C928FE13-331E-83CD-71AF-9D9DCF1D3847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C928FE13-331E-83CD-71AF-9D9DCF1D3847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
