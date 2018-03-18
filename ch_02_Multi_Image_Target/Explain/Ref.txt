@@ -1,2 +1,8 @@
 https://www.youtube.com/watch?v=hQBn1h3Vl9o
 https://www.youtube.com/watch?v=5c6nbUHBzPY
+
+------------------------------------
+1- make objects for every image target childs for it
+-------------------
+2- vuforia config
+   - set config of max num
